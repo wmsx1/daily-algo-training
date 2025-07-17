@@ -1,4 +1,4 @@
-## LeetCode [983 最低票价](https://leetcode.cn/problems/minimum-cost-for-tickets/description/)
+## LeetCode [2466 统计构造好字符串的方案数](https://leetcode.cn/problems/count-ways-to-build-good-strings/description/)
 ### 中文版本
 对于这样的动态规划题目，首先需要定义状态。
 
